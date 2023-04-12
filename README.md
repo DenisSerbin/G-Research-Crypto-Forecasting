@@ -16,3 +16,5 @@ The original training dataset is given in three files:
  - 'train.csv' - contains 1-minute candlesticks (open/close/high/low prices) for all the assets,
 - 'asset_details.csvv' - provides the real name of each cryptoasset and the weight each cryptoasset receives in the metric.
 - 'supplemental_train.csv' - contains more candlestick data obtained in real time after the competition deadline passes (still can be useful in mean calculations etc.)
+
+The files can be downloaded from the competition page [https://www.kaggle.com/competitions/g-research-crypto-forecasting/data](https://www.kaggle.com/competitions/g-research-crypto-forecasting/data)
