@@ -21,4 +21,4 @@ The files can be downloaded from the competition page [https://www.kaggle.com/co
 ## Solution
 
 Pretty simple multilayer perceptron with three hidden layers takes the open/close/high/low and volume weighted average prices for all 13 cryptoassets and
-outputs a vector of 13 future returns. As a loss function I took '1 - Pearson correlation coefficient' (see [gresearch-model-2.ipynb](gresearch-model-2.ipynb))
+outputs a vector of 13 future returns. As a loss function I took '1 - Pearson correlation coefficient' (see [gresearch-model-2.ipynb](gresearch-model-2.ipynb)).
